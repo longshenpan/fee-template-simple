@@ -1,4 +1,3 @@
 {{#unless supportMockServer}}
-# 如果不开启admin后台，登录页面和密码修改页面是不需要的
-mock/
+mock
 {{/unless}}
